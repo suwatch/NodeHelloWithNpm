@@ -4,5 +4,8 @@
   , "private": true
   , "dependencies": {
       "underscore": ">= 1.0.0"
+  },
+  "engines": {
+    "node": ""
   }
 }
