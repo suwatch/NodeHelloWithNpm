@@ -3,7 +3,8 @@
   , "version": "0.0.1"
   , "private": true
   , "dependencies": {
-      "underscore": ">= 1.0.0"
+      "kuduscript": "git+ssh://git@github.com:KuduQAOrg/kuduscript#master"
+    , "underscore": ">= 1.0.0"
   },
   "engines": {
     "node": ""
